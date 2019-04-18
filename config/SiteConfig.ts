@@ -8,7 +8,7 @@ export default {
   siteBanner: '/assets/banner.jpg', // Your image for og:image tag. You can find it in the /static folder
   defaultBg: '/assets/bg.png', // default post background header
   favicon: 'src/favicon.png', // Your image for favicons. You can find it in the /src folder
-  siteDescription: 'Eeikem blog', // Your site description
+  siteDescription: 'Epikem blog', // Your site description
   author: 'Epikem', // Author for schemaORGJSONLD
   // siteLogo: '/assets/logo.png', // Image for schemaORGJSONLD
   // siteLogo: 'https://ko.gravatar.com/userimage/142407511/91e390841fbecffa3aaac55d1ae4b503.png?size=200',
