@@ -1,8 +1,9 @@
 {
-  "name": "gatsby-starter-typescirpt-power-blog",
-  "description": "gatsyby blog template with typescript and tslint",
+  "name": "epikem-blog",
+  "description": "epikem's blog powered by gatsyby blog template with typescript and tslint",
   "version": "1.0.0",
-  "author": "Majid Hajian ( mhadaily@gmail.com )",
+  "author": "Epikem ( epikem1@gmail.com )",
+  "homepage": "http://epikem.github.io",
   "keywords": [
     "gatsby, typescript",
     "blog"
@@ -12,7 +13,7 @@
   "scripts": {
     "build": "gatsby build",
     "start": "gatsby develop",
-    "deploy": "gatsby build --prefix-paths && gh-pages -d public",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public -b master -o origin",
     "lint": "tslint --project .",
     "lint:fix": "tslint --fix --project .",
     "fix": "prettier --write 'src/**/*.{ts,tsx,scss,md}' && tslint --fix 'src/**/*.{ts,tsx}' -p tsconfig.json && stylelint --fix 'src/**/*.scss' "
