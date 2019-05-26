@@ -72,12 +72,6 @@ export default class IndexPage extends React.Component<PageProps> {
                   Epikem
                 </h1>
                 <p>I write about JavaScript, React, NodeJs, Gatsby and ...</p>
-                <a href="https://info.flagcounter.com/uMOj">
-                  <img
-                    src="https://s11.flagcounter.com/count2/uMOj/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/"
-                    alt="Flag Counter"
-                  />
-                </a>
                 <Link to="/contact">
                   <Button big={true}>
                     <svg width="1792" height="1792" viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg">
@@ -98,8 +92,18 @@ export default class IndexPage extends React.Component<PageProps> {
             </GridRow>
             <GridRow>
               <HomepageContent>
-                <h2>About Me</h2>
-                <p>Learning React, etc..</p>
+                <div>
+                  <h2>About Me</h2>
+                  <p>Learning React, etc..</p>
+                </div>
+                <div style={{ display: 'none' }}>
+                  <a href="https://info.flagcounter.com/uMOj">
+                    <img
+                      src="https://s11.flagcounter.com/count2/uMOj/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/"
+                      alt="Flag Counter"
+                    />
+                  </a>
+                </div>
                 <hr />
                 <h2>Latest Blog</h2>
                 {edges.map(post => (
