@@ -5,6 +5,7 @@
 <url> <loc>https://blog.epikem.com/blog/3</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.epikem.com/blog/4</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.epikem.com/blog/5</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://blog.epikem.com/blog/6</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.epikem.com/categories</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.epikem.com/categories/coding</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.epikem.com/categories/general</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -23,6 +24,8 @@
 <url> <loc>https://blog.epikem.com/tags/music</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.epikem.com/tags/technology</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.epikem.com/tags/blog</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://blog.epikem.com/tags/dev-cloud</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://blog.epikem.com/tags/dev-cloud-aws</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.epikem.com/tags/dev-log</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.epikem.com/tags/dev-sport</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.epikem.com/tags/dev-til</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -33,6 +36,9 @@
 <url> <loc>https://blog.epikem.com/tags/react</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.epikem.com/tags/typescript</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.epikem.com/blog/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://blog.epikem.com/blog/vocabo-배포-마무리</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://blog.epikem.com/blog/aws-cloudformation-lambda-add-environment-variables</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://blog.epikem.com/blog/til-개선-필요</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.epikem.com/blog/vocabo-cluster-동작-성공</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.epikem.com/blog/드디어-kengdic-index-생성-완료</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.epikem.com/blog/2019-05-25</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -42,8 +48,8 @@
 <url> <loc>https://blog.epikem.com/blog/2019-05-22</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.epikem.com/blog/2019-05-20</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.epikem.com/blog/2019-05-16</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://blog.epikem.com/blog/2019-05-13</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.epikem.com/blog/grep-recursive-file-content-search</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://blog.epikem.com/blog/2019-05-13</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.epikem.com/blog/2019-05-07</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.epikem.com/blog/sport-통합해야하나</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.epikem.com/blog/2019-04-26</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
