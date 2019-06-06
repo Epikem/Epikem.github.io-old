@@ -8,6 +8,7 @@ import config from '../../config/SiteConfig';
 import '../utils/prismjs-theme.css';
 import PathContext from '../models/PathContext';
 import Post from '../models/Post';
+import 'katex/dist/katex.min.css';
 
 const PostContent = styled.div`
   margin-top: 4rem;
