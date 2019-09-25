@@ -7,6 +7,7 @@
 <url> <loc>https://blog.epikem.com/blog/5</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.epikem.com/blog/6</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.epikem.com/blog/7</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://blog.epikem.com/blog/8</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.epikem.com/categories</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.epikem.com/categories/coding</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.epikem.com/categories/general</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -41,6 +42,10 @@
 <url> <loc>https://blog.epikem.com/tags/study</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.epikem.com/tags/typescript</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.epikem.com/blog/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://blog.epikem.com/blog/codeforces-round-586-div-1-div-2</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://blog.epikem.com/blog/종만북-문제-풀이</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://blog.epikem.com/blog/백준-문제-풀이</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://blog.epikem.com/blog/qwiklab-kubernetes-스터디</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.epikem.com/blog/kubernetes-qwiklab-hands-on-스터디-2</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.epikem.com/blog/태그-처리-스크립트-관련-문제</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.epikem.com/blog/boj-스터디-2-주차-나머지-codeforces-복기</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
