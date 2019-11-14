@@ -43,6 +43,7 @@
 <url> <loc>https://blog.epikem.com/tags/study</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.epikem.com/tags/typescript</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.epikem.com/blog/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://blog.epikem.com/blog/백준-문제풀이</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.epikem.com/blog/acm-icpc-예선-참가</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.epikem.com/blog/gcp-리전사이즈-변경-시도</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.epikem.com/blog/acm-icpc-문제-대전-international-regional-2016</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
